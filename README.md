@@ -1,3 +1,5 @@
+Nadav Konstantine writing 11/2024, I remember completing these reflections with a lot of heart and they meant a lot to me, I appreciate the opportunity to work with Professor Harrison on MQP and to study his expertise in Data Visualization with him. It was a wonderful way to wrap up my CS Degree.
+
 # Reflections
 
 **Reflections are due **before** the first class of each week. We cover them in class**
